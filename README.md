@@ -1,1 +1,1 @@
-This is my girst git repo experiment!
+This is my first git repo experiment!
